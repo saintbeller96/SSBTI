@@ -70,9 +70,9 @@
 
 ex: `feature/review/be`, `hotfix/dashboard/fe`
 
-## :bookmark_tabs: Git Convention
+<!-- ## :bookmark_tabs: Git Convention
 
-![image-20210225100326874](README.assets/image-20210225100326874.png)
+![image-20210225100326874](README.assets/image-20210225100326874.png) -->
 
 #### 그럼 어떻게 쓰나요?
 
