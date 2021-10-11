@@ -54,7 +54,8 @@
 ![stk](./README.assets/stack.png)
 
 ## :pencil2: 서비스 아키텍처
-![architecture_1](https://user-images.githubusercontent.com/34413031/125193418-4d48a180-e287-11eb-84fa-5c111ee3bbe1.png)
+![architecture_1](https://user-images.githubusercontent.com/34413031/136757047-f0fb4edd-52f6-4e35-882a-0f3485ab41bf.png)
+
 
 ## :sparkles: 주요 기능
 
